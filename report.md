@@ -11,6 +11,10 @@
 * https://github.com/Nixem25/Test-Credit-Card-Number-Validator/issues/2
 
 ## Описание процесса тестирования
+1. Использование валидных номеров карт
+2. Использование номеров карт содержащих буквы и специальные символы
+3. Запуск приложения без указания номера карты
+4. Запуск приложения с 0 значением
 
 В процессе тестирования использовались следующие артефакты*:
 * Требования к Задаче №1 - Credit Card Number Validator https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---credit-card-number-validator
