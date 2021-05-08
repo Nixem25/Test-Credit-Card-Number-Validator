@@ -2,14 +2,13 @@
 
 ## Краткое описание
 
-08.05 - 08.05 было проведено <перечисление видов тестирование> приложения Credit Card Number Validator.
+08.05 - 08.05 было проведено интуитивное тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/Nixem25/Test-Credit-Card-Number-Validator/issues/1
+* https://github.com/Nixem25/Test-Credit-Card-Number-Validator/issues/2
 
 ## Описание процесса тестирования
 
@@ -17,10 +16,12 @@
 * Требования к Задаче №1 - Credit Card Number Validator https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---credit-card-number-validator
 
 
+
 *Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
-* Задача №1 - Credit Card Number Validator https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---credit-card-number-validato
+В качестве тестовых данных использовались данные:
+* Генератор кредитных карт:  https://www.freeformatter.com/credit-card-number-generator-validator.html
+
 
 
 Тестирование производилось в следующем окружении:
